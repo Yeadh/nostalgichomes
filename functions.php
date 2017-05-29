@@ -1,13 +1,10 @@
 <?php
 /**
- * Storefront engine room
+ * Nostalgic Homes Theme Functions
  *
- * @package storefront
+ * @package nostalgichomes
  */
 
-/**
- * Assign the Storefront version to a var
- */
 add_theme_support( 'custom-logo' );
 add_theme_support( 'post-thumbnails' ); 
 
@@ -62,4 +59,3 @@ add_action( 'after_setup_theme', 'nostal_menu' );
 function nostal_menu() {
   register_nav_menu( 'primary', __( 'Primary Menu', 'theme-slug' ) );
 }
-
