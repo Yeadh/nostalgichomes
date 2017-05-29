@@ -37,29 +37,20 @@
     </div>
     <!-- .container -->
     <div class="container">
-		<?php dynamic_sidebar( 'sidebar-1' ); ?>
-      
+		<?php dynamic_sidebar( 'sidebar-1' ); ?>    
     </div>
     <div class="container">
       <div class="copyright">
-        © Copyright 2016, <a href="#" target="_blank">Nostalgic Homes</a>. <a href="#">Listings Site Map</a>       
+        © Copyright 2017, <a href="#" target="_blank">Nostalgic Homes</a>. <a href="#">Listings Site Map</a>       
         <div class="cms">
           <a href="">Google+</a>
           <a href="">Site Map</a>
         </div>
       </div>
       <!-- <div class="footer-logo text-center"><img src="<?php echo get_template_directory_uri(); ?>/img/logo.png" alt=""></div> -->
-      <!-- <div class="mreb-disclaimer">
-        <a href="#">Digital Millennium Copyright Act</a>
-      </div> -->
       <a id="rew-credit" href="#" rel="nofollow" target="_blank" title="Inbound Real Estate Online Marketing">Inbound Real Estate Online Marketing</a>
     </div>
   </footer>
-  <!-- End Footer Section -->
-
-
-  <!-- Scripts -->
-
   <?php wp_footer(); ?>
 </body>
 </html>
