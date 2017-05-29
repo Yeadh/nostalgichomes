@@ -10,6 +10,8 @@
   <meta name="keywords" content="">
   <!-- Page Title -->
   <title>Our Agents</title>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,700|Roboto:300,400,700" rel="stylesheet">
   <!-- Modernizr -->
   <script src="<?php echo get_template_directory_uri(); ?>/js/vendor/modernizr-2.8.3.min.js"></script>
   <?php wp_head(); ?>
