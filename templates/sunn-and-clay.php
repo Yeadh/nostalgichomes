@@ -1,7 +1,7 @@
 <?php get_header();
 /**
  * The template for displaying the homepage.
- * Template name: sunn-and-clay
+ * Template name: Sunn And Clay
  *
  * @package pressionate
  */

@@ -23,7 +23,6 @@
           <div class="footer-social">
             <p>Follow Us:</p>
             <ul>
-              <li><a href="/blog" class="rss"><i class="fa fa-rss"></i></a></li>
               <li><a href="https://www.facebook.com/" class="facebook"><i class="fa fa-facebook"></i></a></li>
               <li><a href="https://twitter.com/" class="twitter"><i class="fa fa-twitter"></i></a></li>
               <li><a href="https://www.linkedin.com/" class="linkedin"><i class="fa fa-linkedin"></i></a></li>

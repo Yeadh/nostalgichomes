@@ -1,7 +1,7 @@
 <?php get_header();
 /**
  * The template for displaying the homepage.
- * Template name: about jenny
+ * Template name: About Jenny
  *
  * @package pressionate
  */

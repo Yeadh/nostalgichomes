@@ -1,7 +1,7 @@
 <?php get_header();
 /**
  * The template for displaying the homepage.
- * Template name: corey-wadley
+ * Template name: Corey Wadley
  *
  * @package pressionate
  */

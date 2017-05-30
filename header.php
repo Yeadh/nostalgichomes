@@ -2,14 +2,7 @@
 <html class="no-js" lang="en">
 <head>
   <!-- Meta Tags -->
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="author" content="Pressionate">
-  <meta name="description" content="">
-  <meta name="keywords" content="">
-  <!-- Page Title -->
-  <title>Our Agents</title>
+  <meta charset="<?php bloginfo( 'charset' ); ?>">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,700|Roboto:300,400,700" rel="stylesheet">
   <!-- Modernizr -->
@@ -17,7 +10,7 @@
   <?php wp_head(); ?>
 </head>
 
-<body>
+<body <?php body_class(); ?>>
   <!-- Start Header Section -->
   <header class="header-section">
     <div class="header-top">

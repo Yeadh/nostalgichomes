@@ -6,3 +6,14 @@ Author URI: https://pressionate.com/
 Version: 1.0.0
 */
 
+.textwidget li {
+    list-style: none;
+}
+.textwidget li a {
+    color: #696969;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.textwidget li a:hover {
+    color: #b23535;
+}

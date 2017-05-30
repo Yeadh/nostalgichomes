@@ -1,7 +1,7 @@
 <?php get_header();
 /**
  * The template for displaying the homepage.
- * Template name: brandi-baldschun
+ * Template name: Brandi Baldschun
  *
  * @package pressionate
  */

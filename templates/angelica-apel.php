@@ -1,7 +1,7 @@
 <?php get_header();
 /**
  * The template for displaying the homepage.
- * Template name: angelica-apel
+ * Template name: Angelica Apel
  *
  * @package pressionate
  */

@@ -100,7 +100,6 @@
 									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 									<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
 									<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-									<li><a href="#"><i class="fa fa-rss"></i></a></li>
 								</ul>
 						  </div>
 						  <h3>Recent Posts</h3>
